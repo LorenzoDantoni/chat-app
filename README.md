@@ -2,6 +2,10 @@
 
 This is a full-stack, real-time chat application built with the **MERN** stack (MongoDB, Express, React, Node.js) and **Socket.IO**.
 
+Check out the demo [here](https://chat-app-liard-sigma.vercel.app).
+
+![App concept](./demo_screenshot.png)
+
 ## Project Description
 
 This application allows users to register, login, and chat with other users in real-time. When a user sends a message, it is instantly delivered to the recipient without the need to reload the page. This is achieved using Socket.IO, which enables bidirectional communication between the client and the server.
